@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tme-vue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bare bones ESLint and code formatting for Vue.js",
   "main": "index.js",
   "scripts": {
