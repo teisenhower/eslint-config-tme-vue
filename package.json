@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-tme-vue",
+  "version": "0.0.2",
+  "description": "Bare bones ESLint and code formatting for Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .js,.vue src",
+    "lint:fix": "eslint --ext .js,.vue src --fix"
+  },
+  "keywords": [
+    "javascript",
+    "eslint",
+    "vue",
+    "vuejs",
+    "config",
+    "lint",
+    "ecmascript"
+  ],
+  "author": "Terrence Eisenhower",
+  "license": "MIT",
+  "peerDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.14.0",
+    "eslint-plugin-vue": "^7.1.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.14.0",
+    "eslint-plugin-vue": "^7.1.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
