@@ -3,8 +3,8 @@
   "version": "0.0.3",
   "description": "Bare bones ESLint and code formatting for Vue.js",
   "repository": {
-    "type" : "git",
-    "url" : "github:teisenhower/eslint-config-tme-vue"
+    "type": "git",
+    "url": "github:teisenhower/eslint-config-tme-vue"
   },
   "bugs": {
     "url": "https://github.com/teisenhower/eslint-config-tme-vue/issues"
