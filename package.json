@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tme-vue",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Bare bones ESLint and code formatting for Vue.js",
   "repository": {
     "type": "git",
